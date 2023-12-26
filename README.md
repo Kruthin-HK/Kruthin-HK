@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kruthin-HK](https://github.com/Kruthin-HK)
 
-- 💬 Ask me about **HTML,CSS,JavaScript,Java,SQL**
+- 💬 Ask me about **HTML, CSS, JavaScript,Bootstrap, Java, SQL**
 
 - 📫 How to reach me **kruthin10899@gmail.com**
 
